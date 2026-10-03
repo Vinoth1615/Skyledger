@@ -5,24 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec5acc8c-5d28-4761-937e-b00077e053ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/src/main/java/com/skyledger/apigateway/ApiGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api-gateway/src/main/java/com/skyledger/apigateway/ApiGatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/auth-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/auth-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-registry/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/service-registry/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-registry/src/main/java/com/skyledger/serviceregistry/ServiceRegistryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/service-registry/src/main/java/com/skyledger/serviceregistry/ServiceRegistryApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-registry/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/service-registry/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="9" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,61 +31,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="6.290905129842174E-38" />
-      <entry key="MS500" value="3.6286295016496975E-8" />
-      <entry key="S2" value="0.013801797679397893" />
-      <entry key="S5" value="0.18029108930755017" />
-      <entry key="S10" value="0.4246069821700417" />
-      <entry key="S30" value="0.751615470239918" />
-      <entry key="S60" value="0.866957594257019" />
-      <entry key="M2" value="0.9311055763215141" />
-      <entry key="M5" value="0.9718507430381096" />
-      <entry key="M10" value="0.9858249048579112" />
-      <entry key="M15" value="0.9905274688188253" />
-      <entry key="M30" value="0.9952524648644812" />
-      <entry key="H1" value="0.9976234083382772" />
-      <entry key="H2" value="0.9988109973054348" />
-      <entry key="H4" value="0.9994053218316554" />
-      <entry key="D1" value="0.9999008624045331" />
-      <entry key="W1" value="0.9999858368845946" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000002972128854" />
+      <entry key="S2" value="1.0233489262015336" />
+      <entry key="S5" value="1.2226240070168901" />
+      <entry key="S10" value="1.483697104301716" />
+      <entry key="S30" value="2.1449236377238465" />
+      <entry key="S60" value="3.0014471290619893" />
+      <entry key="M2" value="4.015772207751613" />
+      <entry key="M5" value="5.039498254891982" />
+      <entry key="M10" value="5.486158479690534" />
+      <entry key="M15" value="5.649471281436811" />
+      <entry key="M30" value="5.820617782480568" />
+      <entry key="H1" value="5.909253484315998" />
+      <entry key="H2" value="5.954359574133813" />
+      <entry key="H4" value="5.97711257584008" />
+      <entry key="D1" value="5.996176058612099" />
+      <entry key="W1" value="5.999453492704128" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0" />
-      <entry key="H1" value="1.0" />
-      <entry key="H2" value="1.0" />
-      <entry key="H4" value="1.0" />
-      <entry key="D1" value="1.0" />
-      <entry key="W1" value="1.0" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.6496679752363947E-81" />
+      <entry key="S2" value="6.3730765627943595E-21" />
+      <entry key="S5" value="8.351022510793563E-9" />
+      <entry key="S10" value="9.138392917134588E-5" />
+      <entry key="S30" value="0.04504258177959877" />
+      <entry key="S60" value="0.21223237684104362" />
+      <entry key="M2" value="0.46068685334079557" />
+      <entry key="M5" value="0.7334361764766671" />
+      <entry key="M10" value="0.8564088839314242" />
+      <entry key="M15" value="0.9018218964203726" />
+      <entry key="M30" value="0.9496430363143683" />
+      <entry key="H1" value="0.9744962987689426" />
+      <entry key="H2" value="0.9871657909231573" />
+      <entry key="H4" value="0.9935621726510914" />
+      <entry key="D1" value="0.9989241392317973" />
+      <entry key="W1" value="0.9998462346914073" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1465925847598503E-9" />
-      <entry key="MS500" value="0.01628854647926502" />
-      <entry key="S2" value="0.36898384686449925" />
-      <entry key="S5" value="0.8314689374453115" />
-      <entry key="S10" value="1.2249972313012285" />
-      <entry key="S30" value="1.6772119075420573" />
-      <entry key="S60" value="1.8285541494771764" />
-      <entry key="M2" value="1.9115828650080064" />
-      <entry key="M5" value="1.9639617732013694" />
-      <entry key="M10" value="1.9818668588264532" />
-      <entry key="M15" value="1.9878857392427505" />
-      <entry key="M30" value="1.9939300792708152" />
-      <entry key="H1" value="1.9969618344565199" />
-      <entry key="H2" value="1.9984801149825995" />
-      <entry key="H4" value="1.9992398568108902" />
-      <entry key="D1" value="1.999873281586097" />
-      <entry key="W1" value="1.9999818966864766" />
+      <entry key="MS100" value="0.8526348917679567" />
+      <entry key="MS500" value="0.9686184807267854" />
+      <entry key="S2" value="1.015296404035913" />
+      <entry key="S5" value="1.2190089982877663" />
+      <entry key="S10" value="1.4817087951167396" />
+      <entry key="S30" value="2.1855742015613133" />
+      <entry key="S60" value="3.204602546121185" />
+      <entry key="M2" value="4.466721169523223" />
+      <entry key="M5" value="5.766730597924997" />
+      <entry key="M10" value="6.338941956042122" />
+      <entry key="M15" value="6.54874709342321" />
+      <entry key="M30" value="6.768919707829983" />
+      <entry key="H1" value="6.883061525545321" />
+      <entry key="H2" value="6.941176722494751" />
+      <entry key="H4" value="6.970499287556187" />
+      <entry key="D1" value="6.995070795110314" />
+      <entry key="W1" value="6.999295523092599" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -95,6 +93,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3K6HVtJnS9pcb1xSZHkWzjC7yLm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -112,11 +113,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "Spring Boot.ApiGatewayApplication.executor": "Run",
+    "Spring Boot.ServiceRegistryApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/Anime/skyledger-parent/backend/auth-service/src/main/java/com/skyledger/authservice/dto",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -132,7 +135,7 @@
       <recent name="D:\Anime\skyledger-parent" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+  <component name="RunManager">
     <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.skyledger.apigateway.ApiGatewayApplication" />
       <module name="api-gateway" />
