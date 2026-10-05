@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec5acc8c-5d28-4761-937e-b00077e053ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/flight-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,61 +36,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000002972128854" />
-      <entry key="S2" value="1.0233489262015336" />
-      <entry key="S5" value="1.2226240070168901" />
-      <entry key="S10" value="1.483697104301716" />
-      <entry key="S30" value="2.1449236377238465" />
-      <entry key="S60" value="3.0014471290619893" />
-      <entry key="M2" value="4.015772207751613" />
-      <entry key="M5" value="5.039498254891982" />
-      <entry key="M10" value="5.486158479690534" />
-      <entry key="M15" value="5.649471281436811" />
-      <entry key="M30" value="5.820617782480568" />
-      <entry key="H1" value="5.909253484315998" />
-      <entry key="H2" value="5.954359574133813" />
-      <entry key="H4" value="5.97711257584008" />
-      <entry key="D1" value="5.996176058612099" />
-      <entry key="W1" value="5.999453492704128" />
+      <entry key="MS100" value="1.0041576960252085" />
+      <entry key="MS500" value="1.3340186188721328" />
+      <entry key="S2" value="1.777976314179878" />
+      <entry key="S5" value="2.0956452843667903" />
+      <entry key="S10" value="2.404538914675853" />
+      <entry key="S30" value="3.1060790970432737" />
+      <entry key="S60" value="3.9741448681022833" />
+      <entry key="M2" value="4.9974660162463564" />
+      <entry key="M5" value="6.030296488753592" />
+      <entry key="M10" value="6.481147523228974" />
+      <entry key="M15" value="6.646030675287973" />
+      <entry key="M30" value="6.818845094173978" />
+      <entry key="H1" value="6.908353574492473" />
+      <entry key="H2" value="6.953906167395708" />
+      <entry key="H4" value="6.976885001852036" />
+      <entry key="D1" value="6.99613800803919" />
+      <entry key="W1" value="6.99944805392207" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.6496679752363947E-81" />
-      <entry key="S2" value="6.3730765627943595E-21" />
-      <entry key="S5" value="8.351022510793563E-9" />
-      <entry key="S10" value="9.138392917134588E-5" />
-      <entry key="S30" value="0.04504258177959877" />
-      <entry key="S60" value="0.21223237684104362" />
-      <entry key="M2" value="0.46068685334079557" />
-      <entry key="M5" value="0.7334361764766671" />
-      <entry key="M10" value="0.8564088839314242" />
-      <entry key="M15" value="0.9018218964203726" />
-      <entry key="M30" value="0.9496430363143683" />
-      <entry key="H1" value="0.9744962987689426" />
-      <entry key="H2" value="0.9871657909231573" />
-      <entry key="H4" value="0.9935621726510914" />
-      <entry key="D1" value="0.9989241392317973" />
-      <entry key="W1" value="0.9998462346914073" />
+      <entry key="MS500" value="5.510196549159069E-82" />
+      <entry key="S2" value="4.8449775901093726E-21" />
+      <entry key="S5" value="7.483705849942042E-9" />
+      <entry key="S10" value="8.650841490827375E-5" />
+      <entry key="S30" value="0.04422686117793094" />
+      <entry key="S60" value="0.21030183351062565" />
+      <entry key="M2" value="0.4585867786042525" />
+      <entry key="M5" value="0.7320969740735663" />
+      <entry key="M10" value="0.8556266557755005" />
+      <entry key="M15" value="0.9012726744122572" />
+      <entry key="M30" value="0.9493538194015219" />
+      <entry key="H1" value="0.9743478944409547" />
+      <entry key="H2" value="0.9870906211898454" />
+      <entry key="H4" value="0.9935243435315742" />
+      <entry key="D1" value="0.998917800252518" />
+      <entry key="W1" value="0.9998453282845539" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8526348917679567" />
-      <entry key="MS500" value="0.9686184807267854" />
-      <entry key="S2" value="1.015296404035913" />
-      <entry key="S5" value="1.2190089982877663" />
-      <entry key="S10" value="1.4817087951167396" />
-      <entry key="S30" value="2.1855742015613133" />
-      <entry key="S60" value="3.204602546121185" />
-      <entry key="M2" value="4.466721169523223" />
-      <entry key="M5" value="5.766730597924997" />
-      <entry key="M10" value="6.338941956042122" />
-      <entry key="M15" value="6.54874709342321" />
-      <entry key="M30" value="6.768919707829983" />
-      <entry key="H1" value="6.883061525545321" />
-      <entry key="H2" value="6.941176722494751" />
-      <entry key="H4" value="6.970499287556187" />
-      <entry key="D1" value="6.995070795110314" />
-      <entry key="W1" value="6.999295523092599" />
+      <entry key="MS100" value="0.0077026927256660955" />
+      <entry key="MS500" value="0.6575550305846893" />
+      <entry key="S2" value="1.5320804353715183" />
+      <entry key="S5" value="1.988548180788241" />
+      <entry key="S10" value="2.3493046980605023" />
+      <entry key="S30" value="3.1278834919774305" />
+      <entry key="S60" value="4.166355943395946" />
+      <entry key="M2" value="5.441800720987332" />
+      <entry key="M5" value="6.754375028117397" />
+      <entry key="M10" value="7.3322387011595325" />
+      <entry key="M15" value="7.544149802035785" />
+      <entry key="M30" value="7.7665536577584" />
+      <entry key="H1" value="7.881861027965531" />
+      <entry key="H2" value="7.940572025551338" />
+      <entry key="H4" value="7.970195816894299" />
+      <entry key="D1" value="7.995020059938225" />
+      <entry key="W1" value="7.999288271361249" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,6 +118,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "Spring Boot.ApiGatewayApplication.executor": "Run",
+    "Spring Boot.AuthServiceApplication.executor": "Run",
+    "Spring Boot.FlightServiceApplication.executor": "Run",
     "Spring Boot.ServiceRegistryApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -127,6 +134,10 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -135,7 +146,30 @@
       <recent name="D:\Anime\skyledger-parent" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <map>
+              <entry key="AuthServiceApplication" value="STOPPED" />
+              <entry key="FlightServiceApplication" value="STOPPED" />
+              <entry key="ServiceRegistryApplication" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FlightServiceApplication">
     <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.skyledger.apigateway.ApiGatewayApplication" />
       <module name="api-gateway" />
@@ -165,6 +199,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AuthServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skyledger.authservice.AuthServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="flight-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skyledger.flightservice.FlightServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.skyledger.flightservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServiceRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="service-registry" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.skyledger.serviceregistry.ServiceRegistryApplication" />
@@ -174,6 +228,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.FlightServiceApplication" />
         <item itemvalue="Application.ApiGatewayApplication" />
       </list>
     </recent_temporary>
