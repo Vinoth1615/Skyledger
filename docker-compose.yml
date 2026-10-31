@@ -1,15 +1,16 @@
 services:
-  mysql:
-    image: mysql:8.0
-    container_name: skyledger-mysql
+  postgres:
+    image: postgres:16
+    container_name: skyledger-postgres
     restart: unless-stopped
     environment:
-      MYSQL_ROOT_PASSWORD: root123
+      POSTGRES_USER: skyledger
+      POSTGRES_PASSWORD: skyledger123
+      POSTGRES_DB: skyledger
     ports:
-      - "3306:3306"
+      - "5432:5432"
     volumes:
-      - mysql_data:/var/lib/mysql
-      - ./mysql-init:/docker-entrypoint-initdb.d
+      - postgres_data:/var/lib/postgresql/data
 
 volumes:
-  mysql_data:
+  postgres_data:

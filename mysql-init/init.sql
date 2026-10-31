@@ -1,2 +1,0 @@
-CREATE DATABASE IF NOT EXISTS skyledger_auth;
-CREATE DATABASE IF NOT EXISTS flight_service_db;
